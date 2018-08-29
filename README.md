@@ -1,6 +1,6 @@
-Reversi (also known as Othello)
+Othello Bot
 =======
-This is the public release of a Reversi-playing bot. It was initially forked from https://github.com/haly/Othello and was developed by Tatsuhiro Koshi and myself for the CS4701 AI practicum class at Cornell. 
+This is the public release of an Othello-playing bot. It was initially forked from https://github.com/haly/Othello and was developed by Tatsuhiro Koshi and myself for the CS4701 AI practicum class at Cornell. 
 
 The bot can utilize a variety of different methods to determine its moves. Its primary method is Monte Carlo search, of which there is a basic and a merging variant. Other methods include a minimax search, a simple greedy decision algorithm, and a random-play algorithm. It can simulate human vs AI play as well as AI vs AI play both with and without a GUI. Logging information such as the bot's predicted winning percentage and total wins for a series of games are available.
 
